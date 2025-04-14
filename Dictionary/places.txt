@@ -1,0 +1,44 @@
+jungle
+desert
+forest
+attic
+basement
+spaceship
+library
+volcano
+bakery
+aquarium
+zoo
+castle
+dimension
+time machine
+candy shop
+submarine
+moon base
+chamber of secrets
+haunted house
+cloud
+secret garden
+wizard tower
+mushroom field
+elevator
+broom closet
+bubble bath
+dreamscape
+echo chamber
+floating island
+island
+sock drawer
+labyrinth
+treehouse
+swamp
+garage
+cereal box
+cave
+underground bunker
+mall
+factory
+giant teacup
+dimension of whispers
+garden
+maze
