@@ -1,4 +1,4 @@
-# Whimsical <img src="botIcon.jpg" alt="Whimsical preview" style="max-width: 100%; height: auto;" />
+# Whimsical <img src="botIcon.jpg" alt="Whimsical preview" style="max-width: 10%; height: auto;" />
 
 
 
