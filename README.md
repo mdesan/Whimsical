@@ -1,4 +1,5 @@
-# Whimsical
+# Whimsical ![Whimsical botIcon](botIcon.png)
+
 
 Whimsical is a simple python-based discord bot that, upon call, generates a random, playful sentence.
 
