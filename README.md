@@ -1,4 +1,4 @@
-# Whimsical # Whimsical <img src="botIcon.jpg" alt="Whimsical preview" style="height: 24px; vertical-align: middle;" />
+# Whimsical <img src="botIcon.jpg" alt="Whimsical preview" style="height: 50px; vertical-align: middle;" />
 
 
 
